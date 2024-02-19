@@ -1,0 +1,1 @@
+ALTER TABLE kace2_welike.usuarios ADD account_type int2 NULL DEFAULT 1;
